@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vspradeepk/vspradeepk/_apis/build/status/MyFirstPipe?branchName=master)](https://dev.azure.com/vspradeepk/vspradeepk/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
